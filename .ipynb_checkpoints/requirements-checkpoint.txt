@@ -1,0 +1,5 @@
+--upgrade pandas
+--upgrade numpy
+--upgrade transformers
+--upgrade annoy
+--upgrade torch
