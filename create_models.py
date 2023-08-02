@@ -44,4 +44,4 @@ print('7 - Create Annoy index embedding for the combined text')
 # Create annoy index for combined text
 create_annoy_index(df_cleaned, 'combined', get_embeddings, 'Annoy_Files/', 'Final.ann')
 
-print(DONE!)
+print('DONE!')

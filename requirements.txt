@@ -1,5 +1,7 @@
---upgrade pandas
---upgrade numpy
---upgrade transformers
---upgrade annoy
---upgrade torch
+pandas
+numpy
+transformers
+annoy
+torch
+pip
+streamlit
