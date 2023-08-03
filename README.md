@@ -7,7 +7,9 @@ The files provided by Fetch are stored in the `Data` directory of the project.
 
 ## How to Run The Code
 
-Follow these steps to run the code:
+##### Follow these steps to run the code:
+
+ - Please ensure you have Python installed on your system before running these commands.
 
 1. **Download the project folder.**
 
@@ -21,7 +23,7 @@ Follow these steps to run the code:
 
 3. **Install the required packages.**
 
-    You can install the necessary packages using pip. This command reads from the `requirements.txt` file and installs all necessary packages.
+    You can install the necessary packages using pip. This command reads from the `requirements.txt` file and installs all necessary packages. If an still issue persists please reach out to me.
 
     ```bash
     pip install --upgrade -r requirements.txt
@@ -43,7 +45,6 @@ Follow these steps to run the code:
     streamlit run offer_predict.py
     ```
 
-Please ensure you have Python installed on your system before running these commands.
 
 ## Snapshot of Output
 
